@@ -1,0 +1,89 @@
+div.wlby_movie
+{
+	overflow: hidden;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 800px;
+	height: 600px;
+}
+.wlby_text p { padding: 0; margin: 0; }
+
+a.wlby_classic-link { color: inherit; text-decoration: none; }
+a.wlby_classic-link:link { color: inherit; text-decoration: none; }
+a.wlby_classic-link:hover { color: inherit; text-decoration: none; }
+a.wlby_classic-link:active { color: inherit; text-decoration: none; }
+a.wlby_classic-link:visited { color: inherit; text-decoration: none; }
+
+a.wlby_tlf-link { color: inherit; text-decoration: none; }
+a.wlby_tlf-link:link { color: inherit; text-decoration: none; }
+a.wlby_tlf-link:hover { color: inherit; text-decoration: none; }
+a.wlby_tlf-link:active { color: inherit; text-decoration: none; }
+a.wlby_tlf-link:visited { color: inherit; text-decoration: none; }
+
+.wlby_button > * { visibility: hidden; }
+.wlby_button > .wlby_button_normal { visibility: visible; }
+.wlby_button:hover > .wlby_button_normal { visibility: hidden; }
+.wlby_button:hover > .wlby_button_hover { visibility: visible; }
+.wlby_button:active > .wlby_button_normal { visibility: hidden; }
+.wlby_button:active > .wlby_button_hover { visibility: hidden; }
+.wlby_button:active > .wlby_button_active { visibility: visible; }
+
+@-webkit-keyframes wlby_frameset-animation {
+	from { }
+	to { }
+}
+
+.wlby_fs, .wlby_graphic 
+{
+	-webkit-animation-name: wlby_frameset-animation;
+}
+
+.wlby_graphic 
+{
+	-webkit-animation-duration: 1s;
+}
+
+.wlby_masked 
+{
+	height: inherit;
+	position: inherit;
+	width: inherit;
+}
+
+.wlby_sprite 
+{
+	-webkit-animation-name: wlby_frameset-animation;
+	-webkit-animation-iteration-count: infinite;
+}
+
+@-webkit-keyframes wlby_KF_4 {
+from {
+	opacity: 0;
+}
+98.33% {
+	opacity: 1;
+}
+98.34%, to {
+}
+}
+.wlby_3
+{
+	position: absolute;
+}
+
+.wlby_2
+{
+	-webkit-animation-duration: 2.5s;
+	-webkit-animation-name: wlby_KF_4;
+	-webkit-transform-origin: 300px 225.5px;
+	-webkit-animation-timing-function: linear;
+}
+
+.wlby_1
+{
+	-webkit-animation-duration: 0.0416667s;
+	-webkit-transform: matrix(1, 0, 0, 1, 104.95, 78.95);
+	-webkit-transform-origin: 300px 225.5px;
+}
+

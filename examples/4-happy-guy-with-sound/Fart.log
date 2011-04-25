@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<conversion_log input_name="Fart.fla" output_name="Fart.html" date="Sun Apr 24 00:17:26 GMT-0400 2011" >
+  <status label="reading fla file..."/>
+  <warning label="code: 23 substituted missing font:: Harlow Solid Italic with Arial Narrow"/>
+  <status label="converting fla to HTML5..."/>
+  <warning label="Unsupported feature: Sound Not Supported" context="Document: Fart/TimeLine[0]: Scene 1/Layer[10]: Sound/FrameSet[1]: frames[19,93]/Audio not supported: Kevin's fart.wav" code="15"/>
+  <conversion_status>Fart.fla: conversion successful with 2 warnings </conversion_status>
+</conversion_log>

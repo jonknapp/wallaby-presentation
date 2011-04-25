@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<conversion_log input_name="1.fla" output_name="index.html" date="Sun Apr 24 23:31:25 GMT-0400 2011" >
+  <status label="reading fla file..."/>
+  <status label="converting fla to HTML5..."/>
+  <conversion_status>1.fla: conversion successful</conversion_status>
+</conversion_log>

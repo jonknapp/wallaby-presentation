@@ -1,0 +1,18 @@
+a
+{
+	color: black;
+}
+
+body
+{
+	font-family: Helvetica, Arial, sans-serif;
+}
+
+.wrapper
+{
+	background-color: #b8ffe1;
+	border: 1px solid #00d67d;
+	margin: 0 auto;
+	padding: 20px;
+	width: 600px;
+}

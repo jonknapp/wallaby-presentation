@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version='1.1' width='65px' height='14px' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'>
+	<g transform="translate(-241.627,-208.235)">
+		<path d="M 244.421 213 Q 253.65 206.614 270.9 208.786 Q 288.15 210.921 288.85 212.8 Q 304.55 213.593 304.793 216.957 Q 311.036 219.821 294.443 221.207 Q 277.836 222.557 256.507 220.979 Q 235.179 219.35 244.421 213" fill="none" stroke-width="1" stroke-linejoin="round" stroke-linecap="round" stroke="#000000"/>
+		<path d="M 244.421 213 Q 253.65 206.614 270.9 208.786 Q 288.15 210.921 288.85 212.8 Q 304.55 213.593 304.793 216.957 Q 311.036 219.821 294.443 221.207 Q 277.836 222.557 256.507 220.979 Q 235.179 219.35 244.421 213" fill="#FFFFFF" stroke-width="1" stroke-linejoin="round" stroke-linecap="round" stroke="#000000"/>
+	</g>
+</svg>
